@@ -11,28 +11,37 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1748037187227
+  lastteleport: 1748038610803
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748034289248
-  login: 1748036409936
+  logout: 1748038784992
+  login: 1748038327046
 money: '0'
 lastlocation:
   world: fa4e6f61-f302-4e63-9c64-b59f584b77fb
   world-name: world
-  x: -147.50021509509406
-  y: 86.0
-  z: 99.03196907811511
-  yaw: -27.446727752685547
-  pitch: 23.399864196777344
+  x: -824.4575059366233
+  y: 82.9375
+  z: 36.69999998807907
+  yaw: 8.099922180175781
+  pitch: 29.550029754638672
 logoutlocation:
   world: fa4e6f61-f302-4e63-9c64-b59f584b77fb
   world-name: world
-  x: -34.573192699645645
-  y: 73.49390748022948
-  z: -45.30000001192093
-  yaw: 2.8499972820281982
-  pitch: 38.69999313354492
+  x: -828.2216662527957
+  y: 82.5625
+  z: 42.31257705146413
+  yaw: 127.05000305175781
+  pitch: 42.30000305175781
 last-account-name: Camarc72
+homes:
+  base:
+    world: fa4e6f61-f302-4e63-9c64-b59f584b77fb
+    world-name: world
+    x: -849.5031040509723
+    y: 78.0
+    z: 38.49897350666313
+    yaw: -57.300140380859375
+    pitch: 7.350017070770264

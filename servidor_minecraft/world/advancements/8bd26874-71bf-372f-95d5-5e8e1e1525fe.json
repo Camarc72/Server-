@@ -7,13 +7,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-05-23 22:04:21 +0000",
+      "minecraft:cold_ocean": "2025-05-23 22:09:42 +0000",
       "minecraft:beach": "2025-05-23 22:03:06 +0000",
       "minecraft:dark_forest": "2025-05-23 22:04:53 +0000",
       "minecraft:forest": "2025-05-23 21:50:46 +0000",
       "minecraft:taiga": "2025-05-23 21:40:19 +0000",
-      "minecraft:windswept_forest": "2025-05-23 21:48:46 +0000",
       "minecraft:river": "2025-05-23 21:52:57 +0000",
+      "minecraft:lush_caves": "2025-05-23 22:16:36 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-23 22:04:21 +0000",
+      "minecraft:windswept_forest": "2025-05-23 21:48:46 +0000",
+      "minecraft:ocean": "2025-05-23 22:10:07 +0000",
       "minecraft:birch_forest": "2025-05-23 22:04:44 +0000",
       "minecraft:windswept_hills": "2025-05-23 21:48:30 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-23 22:05:03 +0000"
@@ -395,6 +398,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-05-23 22:17:03 +0000",
+      "minecraft:spider": "2025-05-23 22:17:37 +0000",
       "minecraft:zombie": "2025-05-23 21:51:14 +0000"
     },
     "done": false
@@ -960,6 +965,84 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-23 22:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-23 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-23 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-23 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-23 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-23 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-23 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-23 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-23 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-23 22:09:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-23 22:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-23 22:14:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-23 22:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-23 22:18:37 +0000"
     },
     "done": true
   },
