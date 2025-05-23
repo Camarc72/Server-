@@ -550,3 +550,7 @@ java.util.ConcurrentModificationException: null
 [22:19:40] [Server thread/INFO]: Camarc72 fell from a high place
 [22:19:44] [Server thread/INFO]: Camarc72 lost connection: Disconnected
 [22:19:45] [Server thread/INFO]: Camarc72 left the game
+[22:31:36] [User Authenticator #3/INFO]: UUID of player Blackdroll is 8bd26874-71bf-372f-95d5-5e8e1e1525fe
+[22:31:38] [Server thread/INFO]: Blackdroll joined the game
+[22:31:38] [Server thread/INFO]: Blackdroll[/127.116.84.220:41221] logged in with entity id 12806 at ([world]765.5032187313516, 7.0, 332.29649296914977)
+[22:31:56] [Craft Scheduler Thread - 42 - AuthMe/INFO]: [AuthMe] Blackdroll logged in 127.116.84.220
