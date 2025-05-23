@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.116.84.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1748036448686
+  login: 1748036455286
+money: '0'
+last-account-name: Blackdroll
+logoutlocation:
+  world: fa4e6f61-f302-4e63-9c64-b59f584b77fb
+  world-name: world
+  x: -30.5
+  y: 72.0
+  z: -33.5
+  yaw: 0.0
+  pitch: 0.0

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.196.93.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1748036948838
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1748034289248
+  login: 1748036409936
+money: '0'
+lastlocation:
+  world: fa4e6f61-f302-4e63-9c64-b59f584b77fb
+  world-name: world
+  x: -120.30000001192093
+  y: 97.0
+  z: 108.97520521163834
+  yaw: -26.903974533081055
+  pitch: 44.606834411621094
+logoutlocation:
+  world: fa4e6f61-f302-4e63-9c64-b59f584b77fb
+  world-name: world
+  x: -34.573192699645645
+  y: 73.49390748022948
+  z: -45.30000001192093
+  yaw: 2.8499972820281982
+  pitch: 38.69999313354492
+last-account-name: Camarc72
